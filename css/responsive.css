@@ -1,0 +1,266 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width:1199px) { 
+    .single-about { margin-bottom: 0 }
+    .single-about h2 { margin: 0 }
+    .single-about p { line-height: 22px }
+    .single-contact a {
+        padding: 8px 12px;
+        margin-left: 5px;
+    }
+    .single-contact { left: 16px }
+    .single-work a { left: 33% }
+    .do-1:before,
+    .do-3:before { right: -17px }
+    .area-padding {
+        padding-top: 55px;
+        padding-bottom: 65px;
+    }
+    .our-team-area .area-padding { padding-bottom: 80px }
+    .we-do-area .area-padding { padding-bottom: 55px }
+    .area-heading p { padding-bottom: 80px }
+    .we-do-area .area-heading p { padding-bottom: 0px }
+    .skill-head {
+        margin-top: 60px;
+        margin-bottom: 55px;
+    }
+    .single-work a { left: 35% }
+    .single-work a { padding: 14px 23px }
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width:991px) { 
+    .slider-text { padding: 200px 0 }
+    .slider-text h2 { font-size: 45px }
+    a.standard-control { top: 40% }
+    .mainmenu.yamm .container { width: 100% }
+    .nav.navbar-nav>li>a { padding: 15px 7px }
+    .navbar-collapse { padding: 0 5px }
+    .do-1:before,
+    .do-3:before {
+       right: -10px;
+    	 width: 107%;
+    }
+    .single-about { margin-top: 30px }
+    .single-contact { left: 39px }
+    .skill-head {
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+    .single-work a { left: 36% }
+    .area-padding {
+        padding-bottom: 50px;
+        padding-top: 40px;
+    }
+    .contact-us-area { margin-top: 45px }
+    .area-heading p { padding-bottom: 55px }
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width:767px) { 
+    .mainmenu-area { height: 70px }
+    .menu-overlay {
+        height: 70px;
+        padding-top: 0;
+    }
+    .navbar-toggle { margin-top: 14px }
+    ul.nav.navbar-nav {
+        background: #202020 none repeat scroll 0 0;
+        opacity: 0.9;
+        filter: alpha(opacity=90);
+        padding-bottom: 15px;
+    }
+    .menu-overlay {
+        height: 65px;
+        padding-top: 0;
+    }
+    .mainmenu a.navbar-brand { font-size: 20px }
+    .navbar-brand img { height: 30px }
+    .navbar-toggle { margin-top: 10px }
+    .mainmenu-area { height: 60px }
+    .menu-overlay { height: 60px }
+    .area-heading h2 { font-size: 40px }
+    .area-heading p { padding-bottom: 40px }
+    .slider-text { padding: 180px 0 }
+    .slider-text h2 { font-size: 40px }
+    .slider-text p { font-size: 22px }
+    a.standard-control {
+        top: 39%;
+        left: 20px;
+    }
+    .nav.navbar-nav>li>a { padding: 15px 15px }
+    .navbar-collapse {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .container>.navbar-header { margin: 0 }
+    .do-1:hover:before,
+    .do-2:hover:before,
+    .do-3:hover:before,
+    .do-4:hover:before,
+    .do-1:after,
+    .do-2:after,
+    .do-3:after,
+    .do-4:after { display: none }
+    .do-1,
+    .do-2,
+    .do-3,
+    .do-4 {
+        text-align: center;
+        padding: 0;
+    }
+    .row.plus-divider { padding: 0 }
+    .single-team { margin-bottom: 20px }
+    .single-work a {
+        left: 38%;
+        top: 39%;
+    }
+    .single-contact {
+        visibility: visible;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+    .item-overlay {
+        visibility: visible;
+        opacity: .5;
+        filter: alpha(opacity=50);
+    }
+    .area-padding,
+    .our-team-area .area-padding {
+        padding-bottom: 45px;
+        padding-top: 35px;
+    }
+    .item-overlay {
+        opacity: .5;
+        filter: alpha(opacity=50);
+        bottom: 0;
+    }
+    .single-contact { top: 75% }
+    .single-work .single-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        content: '';
+        background: #000;
+        opacity: .5;
+        filter: alpha(opacity=50);
+        z-index: 1;
+        visibility: visible;
+    }
+    .single-work:hover a { top: 39% }
+    .single-work a {
+        visibility: visible;
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+    .latest-blog-heading,
+    .latest-blog-date,
+    .latest-blog-more { display: block }
+    .latest-blog-heading { font-size: 22px }
+    .latest-blog-date {
+        font-size: 22px;
+        padding: 15px 26px;
+    }
+    .social-icon { padding: 40px 0 }
+    .contact-us-area .area-heading { 
+    	   padding-bottom: 0px;
+    		padding-top: 45px; 
+    }
+    .form-input {
+        margin: 15px 0;
+        padding: 9px;
+    }
+    .btn.btn-submit { padding: 13px 30px }
+    .social-icon a {
+        padding: 6px 10px;
+        font-size: 30px;
+    }
+    .social-icon a.behance-i { padding: 6px 7px }
+}
+/* Very Extra Small Devices, Phones */
+@media only screen and (max-width:479px) { 
+    .area-padding,
+    .our-team-area .area-padding {
+        padding-bottom: 20px;
+        padding-top: 5px;
+        background: none;
+        border-bottom: 3px solid #EE3449;
+    }
+    .area-heading p { padding-bottom: 20px }
+    .single-work a {
+        left: 36%;
+        top: 35%;
+        padding: 18px 25px;
+    }
+    .skill-head {
+        margin-bottom: 35px;
+        margin-top: 0px;
+    }
+    .form-input {
+        margin: 12px 0;
+        padding: 10px;
+    }
+    .btn.btn-submit { padding: 10px 20px }
+    .social-icon a {
+        font-size: 15px;
+        padding: 10px 12px;
+    }
+    .social-icon a i.fa.fa-facebook { padding: 0 3px }
+    .social-icon a.behance-i { padding: 10px 10px }
+    .area-heading h2 {
+        font-size: 30px;
+        margin-top: 20px;
+        padding-bottom: 0;
+        padding-top: 5px;
+    }
+    .area-heading p {
+        padding-bottom: 15px;
+        padding-top: 8px;
+    }
+    .we-do-area .area-padding { padding-bottom: 20px }
+    .do-1 h2,
+    .do-2 h2,
+    .do-3 h2,
+    .do-4 h2 { font-size: 20px }
+    .single-about i.fa {
+        font-size: 22px;
+        padding: 18px 21px;
+    }
+    .team-members .single-team h2 { font-size: 20px }
+    .contact-us-area { margin-top: 20px }
+    .contact-us-area .area-heading { padding:0 }
+    .single-work a {
+        left: 37%;
+        padding: 6px 15px;
+        top: 37%;
+    }
+    .latest-blog-date {
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    .latest-blog-heading { padding: 8px }
+    .latest-blog-more { padding: 4px 10px }
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width:319px) { 
+    .single-about h2 { font-size: 20px }
+    .single-work:hover a { top: 34% }
+    .single-work a {
+        left: 33%;
+        padding: 3px 12px;
+        top: 34%;
+    }
+    .latest-blog-heading {
+        font-size: 15px;
+        padding: 5px;
+    }
+    .latest-blog-date {
+        font-size: 16px;
+        padding: 4px 10px;
+    }
+    .latest-blog-more
+    .latest-blog-more {
+        font-size: 13px;
+        padding: 0 2px;
+    }
+    .social-icon a { margin: 2px }
+}

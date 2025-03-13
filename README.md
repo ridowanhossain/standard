@@ -12,6 +12,38 @@
 
 ![Standard Template](img/standard-title.png)
 
+<p align="center">
+  <img src="img/header-image.png" alt="" style="vertical-align: middle;">
+  <span style="font-family: 'Open Sans', sans-serif; font-weight: 700; font-size: 25px; color: #333; text-transform: uppercase; vertical-align: middle;">
+    <span style="color: #EE3449;">Stan</span>d<span style="color: #EE3449;">ar</span>d
+  </span>
+</p>
+
+<!-- HTML and CSS code for reference:
+```html
+<a href="" class="navbar-brand"><img src="img/header-image.png" alt=""> <span>Stan</span>d<span>ar</span>d</a>
+```
+
+```css
+.mainmenu a.navbar-brand {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 25.17px;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 8px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.mainmenu a.navbar-brand span { color: #EE3449 }
+.navbar-nav a {
+    color: #fff;
+    text-transform: uppercase;
+}
+```
+-->
+
+
 </div>
 
 ## ✨ Overview

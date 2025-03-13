@@ -1,42 +1,73 @@
-# Standard - Responsive HTML Template
+<div align="center">
+
+# Standard - Responsive Portfolio HTML Template
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-3.3.5-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-1.11.3-0769AD.svg?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-4.4.0-528DD7.svg?style=flat&logo=font-awesome&logoColor=white)](https://fontawesome.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+<a href="http://demo.techogram.com/html/standard" target="_blank">View Demo</a> • 
+<a href="https://github.com/ridowanhossain/standard" target="_blank">GitHub Repo</a>
 
 ![Standard Template](img/standard-title.png)
 
-## Overview
+</div>
+
+## ✨ Overview
 
 Standard is a clean, modern, and fully responsive HTML template built with Bootstrap. It's perfect for creative agencies, portfolios, business websites, and personal projects that need a professional and elegant online presence.
 
-## Features
+<div align="center">
+
+![Template Preview](img/slider1.jpg)
+
+</div>
+
+## 🚀 Features
 
 - **Fully Responsive Design** - Looks great on all devices (desktop, tablet, mobile)
 - **Bootstrap Framework** - Built on the powerful Bootstrap 3.3.5 framework
 - **Modern UI Elements** - Clean and contemporary design elements
 - **Full Screen Slider** - Engaging hero section with full-screen image slider
+- **Portfolio Gallery** - Showcase your work with a beautiful filterable portfolio
 - **Team Section** - Showcase your team members with style
+- **Blog Section** - Integrated blog layout ready for your content
 - **Modal Popups** - Lightweight JavaScript popups for additional content
 - **Font Awesome Integration** - Beautiful icons included
 - **Google Fonts** - Uses Raleway and Play fonts for typography
 - **Cross-Browser Compatibility** - Works on all modern browsers
+- **Well Documented** - Easy to customize and extend
 
-## Demo
+## 🖥️ Demo
 
-View the live demo [here](#) (replace with your demo URL)
+Explore the live demo: [Standard Template Demo](https://demo.techogram.com/html/standard)
 
-## Installation
+## 📋 Template Sections
+
+- Hero Slider
+- About Us
+- Services
+- Portfolio/Works
+- Team Members
+- Latest Blog
+- Contact Form
+
+## 📦 Installation
 
 1. Clone this repository or download the ZIP file
-   ```
-   git clone https://github.com/yourusername/standard.git
+   ```bash
+   git clone https://github.com/ridowanhossain/standard.git
    ```
 
 2. Navigate to the project folder
-   ```
+   ```bash
    cd standard
    ```
 
 3. Open `index.html` in your browser to view the template
 
-## Usage
+## 🛠️ Usage
 
 ### Basic Structure
 
@@ -61,7 +92,7 @@ standard/
 3. **Images**: Replace images in the `img` folder with your own
 4. **Scripts**: Add or modify JavaScript functionality in the `js` folder
 
-## Dependencies
+## 📚 Dependencies
 
 - [Bootstrap 3.3.5](http://getbootstrap.com)
 - [jQuery 1.11.3](https://jquery.com)
@@ -69,7 +100,7 @@ standard/
 - [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)
 - [Modernizr](https://modernizr.com)
 
-## Browser Support
+## 🌐 Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
@@ -77,16 +108,16 @@ standard/
 - Opera (latest)
 - IE 9+
 
-## Credits
+## ✍️ Credits
 
 - Design by [Bappy](https://www.facebook.com/towkirbappy)
-- Development by [Ridowan](https://www.facebook.com/raifel.tuhin)
+- Development by [Ridowan](https://www.facebook.com/ridowan.hossain)
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -94,6 +125,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Support
+## 💬 Support
 
 If you have any questions or need help with the template, please contact [your-email@example.com](mailto:your-email@example.com).
+
+---
+
+<div align="center">
+
+**[⬆ back to top](#standard---responsive-portfolio-html-template)**
+
+Made with ❤️ by [Ridowan Hossain](https://github.com/ridowanhossain)
+
+</div>

@@ -7,6 +7,8 @@
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-4.4.0-528DD7.svg?style=flat&logo=font-awesome&logoColor=white)](https://fontawesome.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+**Created:** September 11, 2015
+
 <a href="http://demo.techogram.com/html/standard" target="_blank">View Demo</a> • 
 <a href="https://github.com/ridowanhossain/standard" target="_blank">GitHub Repo</a>
 

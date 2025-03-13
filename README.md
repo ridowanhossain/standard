@@ -10,11 +10,10 @@
 <a href="http://demo.techogram.com/html/standard" target="_blank">View Demo</a> • 
 <a href="https://github.com/ridowanhossain/standard" target="_blank">GitHub Repo</a>
 
-![Standard Template](img/standard-title.png)
 
 <h1 align="center">
   <img src="img/header-image.png" alt="Standard Logo" width="30" height="30">
-  <b>STANDARD</b> - <span style="color:#EE3449">Stan</span>d<span style="color:#EE3449">ar</span>d
+  <b>STANDARD</b>
 </h1>
 </div>
 

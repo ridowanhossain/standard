@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 💬 Support
 
-If you have any questions or need help with the template, please contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need help with the template, please contact [ridowan@techogram.com](mailto:ridowan@techogram.com).
 
 ---
 
